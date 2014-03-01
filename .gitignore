@@ -1,8 +1,1 @@
-#以下规则为：忽略全部文件，除了根目录下的.gitignore、README.md
-#Square/Classes、Square/proj.win32和Square/Resources 文件
-/*
-!.gitignore
-!/README.md
-!/Square/Classes
-!/Square/proj.win32
-!/Square/Resources
+
